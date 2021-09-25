@@ -1,12 +1,8 @@
-<h2 align="centre">🎵 SELEB BOSS  MUSIC BOT</h2>
+<h2 align="centre">🎵 JAWARA MUSIC BOT</h2>
 
 ### 🧪 Get STRING_SESSION from below:
 
 [![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@levinalab/StringSession#main.py)
-
-### 🎖 History
-
-[![Mentioned in Awesome Python](https://awesome.re/mentioned-badge.svg)](https://github.com/levina-lab/VeezMusic)
 
 ## Features 🔮
 
@@ -74,7 +70,7 @@
 ## Heroku Deployment 💜
 The easy way to host this bot, deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/NoteTeam/selebboss)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/NoteTeam/JawaraMusic)
 
 ## VPS Deployment 📡
 
@@ -85,8 +81,8 @@ pip3 install -U pip
 curl -sL https://deb.nodesource.com/setup_16.x | bash -
 sudo apt-get install -y nodejs
 npm i -g npm
-git clone https://github.com/levina-lab/VeezMusic # Clone your repo.
-cd VeezMusic
+git clone https://github.com/NoteTeam/JawaraMusic # Clone your repo.
+cd JawaraMusic
 pip3 install -U -r requirements.txt
 cp example.env .env #Use vim to edit ENVs
 vim .env #Fill up your ENVs ( Steps press i to enter in insert mode then edit the file. Press Esc to exit the editing mode then type :wq! and press Enter key to save the file.)
